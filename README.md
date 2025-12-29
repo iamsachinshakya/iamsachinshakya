@@ -138,9 +138,19 @@ const sachin = {
 <div align="center">
 📦 My Repositories
 
+
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=iamsachinshakya&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+💼 My Work & Contributions
+<p>
+  <a href="https://github.com/iamsachinshakya?tab=repositories">
+    <img src="https://img.shields.io/badge/📂_View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
+  </a>
+  <a href="https://github.com/iamsachinshakya">
+    <img src="https://img.shields.io/badge/⭐_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+</p>
 </div>
+
 <p>
   <a href="https://github.com/iamsachinshakya?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
