@@ -136,26 +136,22 @@ const sachin = {
 ## 🌟 Featured Projects
 
 <div align="center">
-📦 My Repositories
-
-
-<div align="center">
-💼 My Work & Contributions
+💻 Development Expertise
 <p>
-  <a href="https://github.com/iamsachinshakya?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
-  </a>
-  <a href="https://github.com/iamsachinshakya">
-    <img src="https://img.shields.io/badge/⭐_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
+  <img src="https://img.shields.io/badge/Full_Stack-Expert-38C2FF?style=for-the-badge" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
-</div>
-
 <p>
-  <a href="https://github.com/iamsachinshakya?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
-  </a>
+  <img src="https://img.shields.io/badge/AWS-Cloud_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
+<br/>
+<a href="https://github.com/iamsachinshakya?tab=repositories">
+  <img src="https://img.shields.io/badge/View_My_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
+</a>
 </div>
 
 ---
