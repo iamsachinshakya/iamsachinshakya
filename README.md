@@ -136,11 +136,7 @@ const sachin = {
 ## 🌟 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/iamsachinshakya">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamsachinshakya&repo=iamsachinshakya&theme=dark&hide_border=true&bg_color=0d1117&title_color=38C2FF&icon_color=38C2FF" alt="Featured Project" />
-</a>
-
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=iamsachinshakya&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
 </div>
 
 ---
