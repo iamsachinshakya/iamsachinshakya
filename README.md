@@ -91,24 +91,6 @@ const sachin = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iamsachinshakya&show_icons=true&count_private=true&hide_border=true&title_color=38C2FF&icon_color=38C2FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Sachin Shakya github stats" /> 
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=iamsachinshakya&theme=dark&hide_border=true&background=0d1117&stroke=0000&ring=38C2FF&fire=38C2FF&currStreakLabel=38C2FF&cache_seconds=1800" alt="Sachin Shakya streak stats"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsachinshakya&layout=compact&hide_border=true&title_color=38C2FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamsachinshakya&show_icons=true&count_private=true&hide_border=true&title_color=38C2FF&icon_color=38C2FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats Extended" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamsachinshakya&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=1800" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsachinshakya&bg_color=0d1117&color=38C2FF&line=38C2FF&point=FFFFFF&hide_border=true&cache_seconds=1800" alt="Contribution Graph" />
 </div>
 
