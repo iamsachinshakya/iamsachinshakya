@@ -172,6 +172,9 @@ Deploying and managing production-grade applications on AWS and serverless platf
   </a>
 </p>
 
+<br/>
+
+
 ### 🎯 Project Highlights
 
 <table>
