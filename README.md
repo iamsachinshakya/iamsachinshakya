@@ -136,7 +136,15 @@ const sachin = {
 ## 🌟 Featured Projects
 
 <div align="center">
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=iamsachinshakya&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+📦 My Repositories
+<a href="https://github.com/iamsachinshakya?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamsachinshakya&show_icons=true&count_private=true&hide_border=true&title_color=38C2FF&icon_color=38C2FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" />
+</a>
+<p>
+  <a href="https://github.com/iamsachinshakya?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
+  </a>
+</p>
 </div>
 
 ---
