@@ -135,8 +135,6 @@ const sachin = {
 
 ## 🌟 Featured Projects
 
-## 🌟 Featured Projects
-
 <div align="center">
 
 ### 💼 Building Scalable Solutions & Contributing to Innovation
