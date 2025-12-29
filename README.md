@@ -163,12 +163,11 @@ Deploying and managing production-grade applications on AWS and serverless platf
 </table>
 
 <br/>
-<br/>
 
 <!-- Call to Action Buttons -->
 <p>
   <a href="https://github.com/iamsachinshakya?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_Explore_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+    <img src="https://img.shields.io/badge/Explore_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
   </a>
 </p>
 
