@@ -163,20 +163,12 @@ Deploying and managing production-grade applications on AWS and serverless platf
 </table>
 
 <br/>
-
-<!-- Top Contributed Repositories -->
-<img src="https://github-contributor-stats.vercel.app/api?username=iamsachinshakya&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" />
-
-<br/>
 <br/>
 
 <!-- Call to Action Buttons -->
 <p>
   <a href="https://github.com/iamsachinshakya?tab=repositories">
     <img src="https://img.shields.io/badge/📂_Explore_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
-  </a>
-  <a href="https://github.com/iamsachinshakya?tab=repositories&q=&type=source">
-    <img src="https://img.shields.io/badge/⭐_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
 </p>
 
