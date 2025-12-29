@@ -135,23 +135,131 @@ const sachin = {
 
 ## 🌟 Featured Projects
 
+## 🌟 Featured Projects
+
 <div align="center">
-💻 Development Expertise
-<p>
-  <img src="https://img.shields.io/badge/Full_Stack-Expert-38C2FF?style=for-the-badge" alt="Full Stack"/>
-  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+
+### 💼 Building Scalable Solutions & Contributing to Innovation
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🚀 Web Applications
+Developing high-performance, user-centric applications with modern frameworks and best practices
+
+</td>
+<td align="center" width="33%">
+
+#### ⚡ Backend Systems
+Architecting robust APIs and scalable microservices with optimal database design
+
+</td>
+<td align="center" width="33%">
+
+#### ☁️ Cloud Solutions
+Deploying and managing production-grade applications on AWS and serverless platforms
+
+</td>
+</tr>
+</table>
+
 <br/>
-<a href="https://github.com/iamsachinshakya?tab=repositories">
-  <img src="https://img.shields.io/badge/View_My_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
-</a>
+
+<!-- Top Contributed Repositories -->
+<img src="https://github-contributor-stats.vercel.app/api?username=iamsachinshakya&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" />
+
+<br/>
+<br/>
+
+<!-- Call to Action Buttons -->
+<p>
+  <a href="https://github.com/iamsachinshakya?tab=repositories">
+    <img src="https://img.shields.io/badge/📂_Explore_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+  </a>
+  <a href="https://github.com/iamsachinshakya?tab=repositories&q=&type=source">
+    <img src="https://img.shields.io/badge/⭐_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
+
+### 🎯 Project Highlights
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🔥 Recent Work**
+- Full Stack Web Applications
+- RESTful & GraphQL APIs
+- Real-time Data Processing
+- Payment Integration Systems
+- Authentication & Authorization
+
+</td>
+<td align="center" width="50%">
+
+**🎨 Technical Approach**
+- Clean, Maintainable Code
+- Test-Driven Development
+- Agile Methodologies
+- Performance Optimization
+- Security Best Practices
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+### 💡 What I Build
+
+<p align="left" style="padding: 0 50px;">
+
+**E-commerce Platforms** → Building complete online shopping experiences with payment gateways, inventory management, and order tracking
+
+**SaaS Applications** → Developing subscription-based software with user management, analytics dashboards, and API integrations
+
+**Content Management Systems** → Creating flexible CMS solutions with role-based access control and dynamic content delivery
+
+**Real-time Applications** → Implementing WebSocket-based chat systems, live notifications, and collaborative tools
+
+**Data Analytics Dashboards** → Visualizing complex datasets with interactive charts and real-time updates
+
+**Mobile-Responsive Interfaces** → Crafting seamless experiences across all devices with modern design patterns
+
+</p>
+
+<br/>
+
+---
+
+### 🔨 Development Workflow
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Planning] --> B[Design]
+    B --> C[Development]
+    C --> D[Testing]
+    D --> E[Deployment]
+    E --> F[Monitoring]
+    F --> G[Optimization]
+    G --> C
+```
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code_Quality-A+-38C2FF?style=for-the-badge" alt="Code Quality"/>
+  <img src="https://img.shields.io/badge/Best_Practices-Always-00D9FF?style=for-the-badge" alt="Best Practices"/>
+  <img src="https://img.shields.io/badge/Innovation-Driven-00F0FF?style=for-the-badge" alt="Innovation"/>
+</p>
+
 </div>
 
 ---
