@@ -35,7 +35,7 @@ const sachin = {
         frontend: ["React", "Next.js", "SvelteKit", "Redux", "React Query"],
         backend: ["Node.js", "Express", "NestJS", "Nginx"],
         databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "DynamoDB"],
-        cloud: ["AWS", "Firebase", "Vercel"],
+        cloud: ["AWS", "Firebase", "Vercel","Netlify"],
         tools: ["Git", "GitHub Actions", "Prisma", "Docker"]
     },
     architecture: ["Microservices", "RESTful APIs", "Event-Driven", "Serverless"],
